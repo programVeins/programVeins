@@ -13,6 +13,6 @@ Python 🐍                         Apple .  <br/>
 
 ### Contact:
 
-[Instagram](https://www.instagram.com/sabeshbharathi/) 📷 <br/>
-[Twitter](https://twitter.com/sabeshbharathi) 🐦 <br/>
-[Blog](https://arcturus-blog.herokuapp.com) 📝 <br/>
+[Instagram](https://www.instagram.com/sabeshbharathi/) 📷 <br/><br/>
+[Twitter](https://twitter.com/sabeshbharathi) 🐦 <br/><br/>
+[Blog](https://arcturus-blog.herokuapp.com) 📝 <br/><br/>
