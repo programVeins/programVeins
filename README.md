@@ -8,7 +8,7 @@ Hello! I am Sabesh. I'm 19 and come from Chennai, India. I am an adept Web Devel
 ReactJS ⚛️                        Coffee ☕️  <br/>
 SwiftUI 🦅                        Maggi 🍜  <br/>
 UI/UX ✨                          Dogs 🐶  <br/>
-Python 🐍                         Apple .  <br/>
+Python 🐍                         Apple   <br/>
 </pre>
 
 ### Contact:
