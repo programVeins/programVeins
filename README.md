@@ -15,4 +15,4 @@ Python 🐍                         Apple   <br/>
 
 [Instagram](https://www.instagram.com/sabeshbharathi/) 📷 <br/><br/>
 [Twitter](https://twitter.com/sabeshbharathi) 🐦 <br/><br/>
-[Blog](https://arcturus-blog.herokuapp.com) 📝 <br/><br/>
+[Blog](https://sabeshbharathi.codes/home) 📝 <br/><br/>
