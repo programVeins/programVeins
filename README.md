@@ -18,7 +18,7 @@ I am Sabesh (He/Him). I'm 20 and come from Chennai, India. I'm an adept web/iOS 
 - ☕️ Coffee
 - 🍜 Noodles
 - 🐶 Dogs
--  Apple
+- 🍎 Apple
 - ⛏ Minecraft
 
 ### Contact:
