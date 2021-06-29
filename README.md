@@ -23,7 +23,7 @@ I am Sabesh (He/Him). I'm 20 and come from Chennai, India. I'm an adept web/iOS 
 
 ### Contact:
 
-[Instagram 📷](https://www.instagram.com/sabeshbharathi/)<br/><br/>
-[Twitter 🐦](https://twitter.com/sabeshbharathi)<br/><br/>
-[Portfolio 🎖](https://sabeshbharathi.codes/home)<br/><br/>
-[Blog 📝](https://sabeshbharathi.codes/blog)<br/><br/>
+[📷 Instagram](https://www.instagram.com/sabeshbharathi/)<br/><br/>
+[🐦 Twitter](https://twitter.com/sabeshbharathi)<br/><br/>
+[🎖 Portfolio](https://sabeshbharathi.codes/home)<br/><br/>
+[📝 Blog](https://sabeshbharathi.codes/blog)<br/><br/>
