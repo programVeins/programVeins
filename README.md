@@ -17,6 +17,8 @@ I am Sabesh (He/Him). I'm 20 and come from Chennai, India. I'm an adept web/iOS 
 - 🦄 TailwindCSS
 - 🐚 Python Flask
 
+<br/>
+
 ---
 
 <img alt="Coder gif" src="https://media.giphy.com/media/Qa4KtB03ixJrmHw7Ti/giphy.gif" align="right"/>
@@ -31,6 +33,8 @@ I am Sabesh (He/Him). I'm 20 and come from Chennai, India. I'm an adept web/iOS 
 - 🎮 Gaming in general
 - 📱 New/Futuristic tech
 - 🍕 Pizzas
+
+<br/>
 
 ---
 
