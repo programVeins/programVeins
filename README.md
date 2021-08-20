@@ -9,7 +9,7 @@ I am Sabesh (He/Him). I'm 20 and come from Chennai, India. I'm an adept web/iOS 
 ### Built projects on:
 
 - ⚡️ Core JS
-- ⚛️ ReactJS + NextJS
+- ⚛️ ReactJS + ▲ NextJS
 - 🦅 SwiftUI
 - 🛠 Swift frameworks (RealityKit, ARKit, CoreML etc.)
 - 💅🏽 Core CSS
