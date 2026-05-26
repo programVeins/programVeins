@@ -1,46 +1,16 @@
-# Hello y'all! 👋🏽
+hey - sabesh here.
 
-I am Sabesh (He/Him). I'm 20 and come from Chennai, India. I'm an adept web/iOS developer architecting meaningful and elegent applications natively and on the web. I'm also a Apple  WWDC 2021 Swift Student Challenge winner. I feel like it's every consumer's necessity to experience quality products, with a robust feature-set whilst enjoying a hassle-free and accessible User Experience ☄️ I strive to make that possible in every product I develop/design. Cheers! 🍻
+\> i 🫶🏽 design, engineering and research.
 
----
+\> helped scale small startups go from 0 - 1 in past lives.
 
-<img alt="Coder gif" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" align="right"/>
+\> currently, founding team @ [Conscious Engines](https://www.consciousengines.com/) - an AI research lab / deep tech startup based in BLR.
 
-### Built projects on:
+\> talk to me about all things Apple, Swift, Local/On-device LLMs, AI/ML Research or tech in general.
 
-- ⚡️ Core JS
-- ⚛️ ReactJS + ▲ NextJS
-- 🦅 SwiftUI
-- 🛠 Swift frameworks (RealityKit, ARKit, CoreML etc.)
-- 💅🏽 Core CSS
-- ✨ UI/UX with Figma/Sketch
-- 🦄 TailwindCSS
-- 🐚 Python Flask
+Some notable open source work you can check out:
+- [ModelHub](https://github.com/conscious-engines/modelhub)
+- [typesense-swift](https://github.com/typesense/typesense-swift)
+- [Menugram](https://github.com/programVeins/menugram)
 
-<br/>
-
----
-
-<img alt="Coder gif" src="https://media.giphy.com/media/Qa4KtB03ixJrmHw7Ti/giphy.gif" align="right"/>
-
-### Loves:
-
-- ☕️ Coffee
-- 🍜 Noodles
-- 🐶 Dogs
-- 🍎 Apple
-- ⛏ Minecraft
-- 🎮 Gaming in general
-- 📱 New/Futuristic tech
-- 🍕 Pizzas
-
-<br/>
-
----
-
-### Contact:
-
-<span>[📷 Instagram](https://www.instagram.com/sabeshbharathi/)</span>
-<span>[🐦 Twitter](https://twitter.com/sabeshbharathi)</span>
-<span>[🎖 Portfolio](https://sabesh.dev/home)</span>
-<span>[📝 Blog](https://sabesh.dev/blog)</span>
+Shoot me a dm on [twitter/x](https://x.com/sabeshbharathi) if you wanna have a chat :D
